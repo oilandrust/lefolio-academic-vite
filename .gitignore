@@ -1,0 +1,7 @@
+node_modules
+dist
+.content
+public/content-assets
+src/lib/content/content-version.ts
+.DS_Store
+*.local
