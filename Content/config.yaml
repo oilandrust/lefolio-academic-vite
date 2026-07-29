@@ -1,8 +1,8 @@
 site:
   title: "LeFolio Academic Site"
   description: "Software Engineer with experience in Academia, I help academics set up beautiful, easy-to-edit websites to showcase their work."
-  url: "https://oilandrust.github.io/lefolio-academic"
-  basePath: "/lefolio-academic"
+  url: "https://oilandrust.github.io/lefolio-academic-vite"
+  basePath: "/lefolio-academic-vite"
 
 template: academic
 
