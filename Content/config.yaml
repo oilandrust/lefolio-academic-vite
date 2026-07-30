@@ -8,7 +8,7 @@ template: academic
 
 theme:
   preset: slate
-  mode: light
+  mode: dark
   overrides:
     fontScale: "1.125"
     textH1: "2.875rem"
