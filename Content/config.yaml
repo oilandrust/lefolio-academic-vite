@@ -4,10 +4,10 @@ site:
   url: "https://oilandrust.github.io/lefolio-academic-vite"
   basePath: "/lefolio-academic-vite"
 
-template: treasure
+template: showcase
 
 theme:
-  preset: slate
+  preset: ink
   mode: dark
   overrides:
     fontScale: "1.125"
