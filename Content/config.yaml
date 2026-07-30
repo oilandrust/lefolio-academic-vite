@@ -8,7 +8,7 @@ template: showcase
 
 theme:
   preset: ink
-  mode: dark
+  mode: light
   overrides:
     fontScale: "1.125"
     textH1: "2.875rem"
