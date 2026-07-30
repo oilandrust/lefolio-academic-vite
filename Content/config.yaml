@@ -4,7 +4,7 @@ site:
   url: "https://oilandrust.github.io/lefolio-academic-vite"
   basePath: "/lefolio-academic-vite"
 
-template: showcase
+template: treasure
 
 theme:
   preset: slate
